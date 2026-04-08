@@ -1,0 +1,1389 @@
+[
+  {
+    "id": "100-mile-wilderness-map-guide",
+    "title": "100-Mile Wilderness Map & Guide (2nd ed.)",
+    "publisher": "Appalachian Mountain Club",
+    "type": "trail-map",
+    "category": "Maine State/Regional Park Maps & Guides",
+    "location": {
+      "name": "100-Mile Wilderness, ME",
+      "state": "ME",
+      "region": "New England",
+      "lat": 45.653083,
+      "lng": -68.7108586
+    },
+    "tags": [
+      "hiking",
+      "appalachian-trail",
+      "backcountry"
+    ],
+    "image": "IMG_0358.jpeg",
+    "notes": ""
+  },
+  {
+    "id": "patmos-greek-island-guide",
+    "title": "Patmos",
+    "publisher": "Toubi's",
+    "type": "guidebook",
+    "category": "Other Local/Regional Guides & Brochures",
+    "location": {
+      "name": "Patmos, Greece",
+      "state": null,
+      "region": "International",
+      "lat": 37.3247471,
+      "lng": 26.5381556
+    },
+    "tags": [
+      "island",
+      "international",
+      "greece"
+    ],
+    "image": "IMG_0359.jpeg",
+    "notes": "Greek island guide with multi-language descriptions"
+  },
+  {
+    "id": "lily-bay-state-park",
+    "title": "Lily Bay State Park Guide & Map",
+    "publisher": "Maine Bureau of Parks & Lands",
+    "type": "brochure",
+    "category": "Maine State/Regional Park Maps & Guides",
+    "location": {
+      "name": "Lily Bay State Park, ME",
+      "state": "ME",
+      "region": "New England",
+      "lat": 45.5731975,
+      "lng": -69.5435906
+    },
+    "tags": [
+      "state-park",
+      "camping",
+      "lake"
+    ],
+    "image": "IMG_0360.jpeg",
+    "notes": "Moosehead Lake area"
+  },
+  {
+    "id": "catskill-park-ny-natgeo",
+    "title": "Catskill Park, NY",
+    "publisher": "National Geographic Trails Illustrated",
+    "type": "trail-map",
+    "category": "Waterproof/Topographic Trail Maps",
+    "location": {
+      "name": "Catskill Park, NY",
+      "state": "NY",
+      "region": "Mid-Atlantic",
+      "lat": 42.0548556,
+      "lng": -74.5427388
+    },
+    "tags": [
+      "waterproof",
+      "topographic",
+      "hiking",
+      "national-geographic"
+    ],
+    "image": "IMG_0361.jpeg",
+    "notes": ""
+  },
+  {
+    "id": "mount-blue-tumbledown",
+    "title": "Mount Blue State Park and Tumbledown Public Land Guide & Map",
+    "publisher": "Maine Bureau of Parks & Lands",
+    "type": "brochure",
+    "category": "Maine State/Regional Park Maps & Guides",
+    "location": {
+      "name": "Mount Blue State Park, ME",
+      "state": "ME",
+      "region": "New England",
+      "lat": 44.7157648,
+      "lng": -70.3990401
+    },
+    "tags": [
+      "state-park",
+      "hiking",
+      "western-mountains"
+    ],
+    "image": "IMG_0362.jpeg",
+    "notes": ""
+  },
+  {
+    "id": "zion-np-natgeo",
+    "title": "Zion National Park, UT",
+    "publisher": "National Geographic Trails Illustrated",
+    "type": "trail-map",
+    "category": "Waterproof/Topographic Trail Maps",
+    "location": {
+      "name": "Zion National Park, UT",
+      "state": "UT",
+      "region": "Southwest",
+      "lat": 37.3221673,
+      "lng": -113.0047934
+    },
+    "tags": [
+      "waterproof",
+      "topographic",
+      "national-park",
+      "national-geographic"
+    ],
+    "image": "IMG_0363.jpeg",
+    "notes": ""
+  },
+  {
+    "id": "gulf-hagas-area",
+    "title": "The Gulf Hagas Area",
+    "publisher": "Maine Appalachian Trail Club / KI Jo-Mary",
+    "type": "brochure",
+    "category": "Maine State/Regional Park Maps & Guides",
+    "location": {
+      "name": "Gulf Hagas, ME",
+      "state": "ME",
+      "region": "New England",
+      "lat": 45.5403414,
+      "lng": -69.3204097
+    },
+    "tags": [
+      "hiking",
+      "gorge",
+      "backcountry"
+    ],
+    "image": "IMG_0364.jpeg",
+    "notes": "Supplement to KI Jo-Mary Region Guide Map"
+  },
+  {
+    "id": "wolfes-neck-woods-color",
+    "title": "Wolfe's Neck Woods State Park Guide & Map",
+    "publisher": "Maine Bureau of Parks & Lands",
+    "type": "brochure",
+    "category": "Maine State/Regional Park Maps & Guides",
+    "location": {
+      "name": "Wolfe's Neck Woods State Park, Freeport, ME",
+      "state": "ME",
+      "region": "New England",
+      "lat": 43.8228563,
+      "lng": -70.0874433
+    },
+    "tags": [
+      "state-park",
+      "coastal"
+    ],
+    "image": "IMG_0365.jpeg",
+    "notes": "Color edition"
+  },
+  {
+    "id": "somerset-county-cultural-rec",
+    "title": "Somerset County Cultural & Recreational Map",
+    "publisher": "Somerset County",
+    "type": "brochure",
+    "category": "Other Local/Regional Guides & Brochures",
+    "location": {
+      "name": "Somerset County, ME",
+      "state": "ME",
+      "region": "New England",
+      "lat": 45.4538403,
+      "lng": -70.0997288
+    },
+    "tags": [
+      "recreation",
+      "cultural",
+      "county"
+    ],
+    "image": "IMG_0366.jpeg",
+    "notes": ""
+  },
+  {
+    "id": "aaa-central-states",
+    "title": "AAA Central States Provinces",
+    "publisher": "AAA/CAA",
+    "type": "road-map",
+    "category": "AAA/CAA Road Maps",
+    "location": {
+      "name": "Central United States",
+      "state": null,
+      "region": "Midwest",
+      "lat": 39,
+      "lng": -98
+    },
+    "tags": [
+      "road-map",
+      "aaa",
+      "regional"
+    ],
+    "image": "IMG_0367.jpeg",
+    "notes": "North American Regional Series"
+  },
+  {
+    "id": "aaa-northwestern-states",
+    "title": "AAA Northwestern States/Provinces",
+    "publisher": "AAA/CAA",
+    "type": "road-map",
+    "category": "AAA/CAA Road Maps",
+    "location": {
+      "name": "Northwestern United States",
+      "state": null,
+      "region": "Pacific Northwest",
+      "lat": 42.0557157,
+      "lng": -87.6752945
+    },
+    "tags": [
+      "road-map",
+      "aaa",
+      "regional"
+    ],
+    "image": "IMG_0368.jpeg",
+    "notes": "North American Regional Series"
+  },
+  {
+    "id": "aaa-western-states",
+    "title": "AAA Western States Provinces",
+    "publisher": "AAA/CAA",
+    "type": "road-map",
+    "category": "AAA/CAA Road Maps",
+    "location": {
+      "name": "Western United States",
+      "state": null,
+      "region": "West",
+      "lat": 43.3380689,
+      "lng": -75.3896929
+    },
+    "tags": [
+      "road-map",
+      "aaa",
+      "regional"
+    ],
+    "image": "IMG_0369.jpeg",
+    "notes": "North American Regional Series"
+  },
+  {
+    "id": "aaa-atlantic-provinces-quebec",
+    "title": "AAA/CAA Atlantic Provinces Quebec",
+    "publisher": "AAA/CAA",
+    "type": "road-map",
+    "category": "AAA/CAA Road Maps",
+    "location": {
+      "name": "Atlantic Provinces & Quebec, Canada",
+      "state": null,
+      "region": "Canada",
+      "lat": 47,
+      "lng": -66
+    },
+    "tags": [
+      "road-map",
+      "aaa",
+      "canada",
+      "provincial"
+    ],
+    "image": "IMG_0370.jpeg",
+    "notes": "Provincial Series"
+  },
+  {
+    "id": "aaa-oregon-washington-v1",
+    "title": "AAA Oregon Washington",
+    "publisher": "AAA",
+    "type": "road-map",
+    "category": "AAA/CAA Road Maps",
+    "location": {
+      "name": "Oregon & Washington",
+      "state": "OR/WA",
+      "region": "Pacific Northwest",
+      "lat": 45.5601883,
+      "lng": -123.0587907
+    },
+    "tags": [
+      "road-map",
+      "aaa",
+      "state"
+    ],
+    "image": "IMG_0371.jpeg",
+    "notes": "State Series — older edition with lighthouse cover"
+  },
+  {
+    "id": "montreal-tourist-map",
+    "title": "Montreal Official Tourist Map (2013/2014)",
+    "publisher": "Tourisme Montreal",
+    "type": "city-map",
+    "category": "Other Local/Regional Guides & Brochures",
+    "location": {
+      "name": "Montreal, Quebec, Canada",
+      "state": null,
+      "region": "Canada",
+      "lat": 45.5031824,
+      "lng": -73.5698065
+    },
+    "tags": [
+      "city-map",
+      "canada",
+      "tourism"
+    ],
+    "image": "IMG_0372.jpeg",
+    "notes": ""
+  },
+  {
+    "id": "aaa-kentucky-tennessee",
+    "title": "AAA Kentucky Tennessee",
+    "publisher": "AAA",
+    "type": "road-map",
+    "category": "AAA/CAA Road Maps",
+    "location": {
+      "name": "Kentucky & Tennessee",
+      "state": "KY/TN",
+      "region": "Southeast",
+      "lat": 36.7609316,
+      "lng": -83.6963117
+    },
+    "tags": [
+      "road-map",
+      "aaa",
+      "state"
+    ],
+    "image": "IMG_0373.jpeg",
+    "notes": "State Series"
+  },
+  {
+    "id": "aaa-southeastern-states",
+    "title": "AAA Southeastern States",
+    "publisher": "AAA",
+    "type": "road-map",
+    "category": "AAA/CAA Road Maps",
+    "location": {
+      "name": "Southeastern United States",
+      "state": null,
+      "region": "Southeast",
+      "lat": 31.5856126,
+      "lng": -102.8826804
+    },
+    "tags": [
+      "road-map",
+      "aaa",
+      "regional"
+    ],
+    "image": "IMG_0374.jpeg",
+    "notes": "North American Regional Series"
+  },
+  {
+    "id": "moon-acadia-national-park",
+    "title": "Moon Handbooks: Acadia National Park",
+    "publisher": "Moon / Avalon Travel",
+    "type": "hiking-book",
+    "category": "Hiking/Trail Books",
+    "location": {
+      "name": "Acadia National Park, ME",
+      "state": "ME",
+      "region": "New England",
+      "lat": 44.3563115,
+      "lng": -68.2154787
+    },
+    "tags": [
+      "national-park",
+      "hiking",
+      "guidebook"
+    ],
+    "image": "IMG_0376.jpeg",
+    "notes": "By Kathleen M. Brandes"
+  },
+  {
+    "id": "amc-best-day-hikes-maine-coast",
+    "title": "AMC's Best Day Hikes Along the Maine Coast",
+    "publisher": "Appalachian Mountain Club",
+    "type": "hiking-book",
+    "category": "Hiking/Trail Books",
+    "location": {
+      "name": "Maine Coast",
+      "state": "ME",
+      "region": "New England",
+      "lat": 43.8,
+      "lng": -69.5
+    },
+    "tags": [
+      "hiking",
+      "coastal",
+      "day-hikes"
+    ],
+    "image": "IMG_0377.jpeg",
+    "notes": "By Carey Michael Kish — Four-season guide to 50 trails"
+  },
+  {
+    "id": "off-beaten-path-maine",
+    "title": "Off the Beaten Path: Maine",
+    "publisher": "Globe Pequot Press",
+    "type": "hiking-book",
+    "category": "Hiking/Trail Books",
+    "location": {
+      "name": "Maine",
+      "state": "ME",
+      "region": "New England",
+      "lat": 45.709097,
+      "lng": -68.8590201
+    },
+    "tags": [
+      "guidebook",
+      "unique-places"
+    ],
+    "image": "IMG_0378.jpeg",
+    "notes": "By Tom Seymour — A Guide to Unique Places"
+  },
+  {
+    "id": "camden-hills-state-park",
+    "title": "Camden Hills State Park Guide & Map",
+    "publisher": "Maine Bureau of Parks & Lands",
+    "type": "brochure",
+    "category": "Maine State/Regional Park Maps & Guides",
+    "location": {
+      "name": "Camden Hills State Park, ME",
+      "state": "ME",
+      "region": "New England",
+      "lat": 44.2563796,
+      "lng": -69.063967
+    },
+    "tags": [
+      "state-park",
+      "hiking",
+      "coastal"
+    ],
+    "image": "IMG_4698.JPG",
+    "notes": ""
+  },
+  {
+    "id": "50-hikes-coastal-inland-maine",
+    "title": "50 Hikes in Coastal and Inland Maine (4th ed.)",
+    "publisher": "Backcountry Guides",
+    "type": "hiking-book",
+    "category": "Hiking/Trail Books",
+    "location": {
+      "name": "Maine",
+      "state": "ME",
+      "region": "New England",
+      "lat": 45.709097,
+      "lng": -68.8590201
+    },
+    "tags": [
+      "hiking",
+      "coastal",
+      "inland"
+    ],
+    "image": "IMG_4699.JPG",
+    "notes": "By John Gibson"
+  },
+  {
+    "id": "rand-mcnally-maine",
+    "title": "Rand McNally Maine State Map",
+    "publisher": "Rand McNally",
+    "type": "road-map",
+    "category": "Other Maps",
+    "location": {
+      "name": "Maine",
+      "state": "ME",
+      "region": "New England",
+      "lat": 45.709097,
+      "lng": -68.8590201
+    },
+    "tags": [
+      "road-map",
+      "state"
+    ],
+    "image": "IMG_4700.JPG",
+    "notes": "Easy to Read series"
+  },
+  {
+    "id": "wolfes-neck-woods-bw",
+    "title": "Wolfe's Neck Woods State Park",
+    "publisher": "Maine Department of Conservation / Parks and Lands",
+    "type": "brochure",
+    "category": "Maine State/Regional Park Maps & Guides",
+    "location": {
+      "name": "Wolfe's Neck Woods State Park, Freeport, ME",
+      "state": "ME",
+      "region": "New England",
+      "lat": 43.8228563,
+      "lng": -70.0874433
+    },
+    "tags": [
+      "state-park",
+      "coastal"
+    ],
+    "image": "IMG_4701.JPG",
+    "notes": "Older black & white edition with osprey illustration"
+  },
+  {
+    "id": "pleasant-mountain-preserve",
+    "title": "Pleasant Mountain Preserve",
+    "publisher": "Loon Echo Land Trust",
+    "type": "brochure",
+    "category": "Other Local/Regional Guides & Brochures",
+    "location": {
+      "name": "Pleasant Mountain, Bridgton, ME",
+      "state": "ME",
+      "region": "New England",
+      "lat": 44.053553,
+      "lng": -70.8168257
+    },
+    "tags": [
+      "preserve",
+      "hiking",
+      "land-trust"
+    ],
+    "image": "IMG_4702.JPG",
+    "notes": ""
+  },
+  {
+    "id": "hermit-island-campground",
+    "title": "Hermit Island Campground",
+    "publisher": "Hermit Island",
+    "type": "brochure",
+    "category": "Other Local/Regional Guides & Brochures",
+    "location": {
+      "name": "Hermit Island, Phippsburg, ME",
+      "state": "ME",
+      "region": "New England",
+      "lat": 43.7307714,
+      "lng": -69.8520865
+    },
+    "tags": [
+      "camping",
+      "coastal",
+      "island"
+    ],
+    "image": "IMG_4703.JPG",
+    "notes": ""
+  },
+  {
+    "id": "coastal-maine-botanical-gardens",
+    "title": "Guardians of the Seeds — Map and Guide",
+    "publisher": "Coastal Maine Botanical Gardens",
+    "type": "brochure",
+    "category": "Other Local/Regional Guides & Brochures",
+    "location": {
+      "name": "Coastal Maine Botanical Gardens, Boothbay, ME",
+      "state": "ME",
+      "region": "New England",
+      "lat": 43.8736893,
+      "lng": -69.6607325
+    },
+    "tags": [
+      "garden",
+      "botanical"
+    ],
+    "image": "IMG_4704.JPG",
+    "notes": ""
+  },
+  {
+    "id": "grafton-notch-mahoosuc",
+    "title": "Grafton Notch State Park and Mahoosuc Public Lands Guide & Map",
+    "publisher": "Maine Bureau of Parks & Lands",
+    "type": "brochure",
+    "category": "Maine State/Regional Park Maps & Guides",
+    "location": {
+      "name": "Grafton Notch State Park, ME",
+      "state": "ME",
+      "region": "New England",
+      "lat": 44.5930403,
+      "lng": -70.9451132
+    },
+    "tags": [
+      "state-park",
+      "hiking",
+      "backcountry"
+    ],
+    "image": "IMG_4705.JPG",
+    "notes": ""
+  },
+  {
+    "id": "hidden-valley-nature-center",
+    "title": "Hidden Valley Nature Center",
+    "publisher": "Midcoast Conservancy",
+    "type": "brochure",
+    "category": "Other Local/Regional Guides & Brochures",
+    "location": {
+      "name": "Hidden Valley Nature Center, Jefferson, ME",
+      "state": "ME",
+      "region": "New England",
+      "lat": 44.1536001,
+      "lng": -69.5716368
+    },
+    "tags": [
+      "nature-center",
+      "conservancy",
+      "trails"
+    ],
+    "image": "IMG_4706.JPG",
+    "notes": ""
+  },
+  {
+    "id": "wilsons-moosehead-lake",
+    "title": "Wilsons on Moosehead Lake",
+    "publisher": "Wilsons on Moosehead Lake",
+    "type": "brochure",
+    "category": "Resort/Service Brochures",
+    "location": {
+      "name": "Moosehead Lake, ME",
+      "state": "ME",
+      "region": "New England",
+      "lat": 45.6724899,
+      "lng": -69.59062
+    },
+    "tags": [
+      "resort",
+      "cabins",
+      "fishing",
+      "guide-service"
+    ],
+    "image": "IMG_4707.JPG",
+    "notes": "Cabins & Guide Service"
+  },
+  {
+    "id": "birches-resort-moosehead",
+    "title": "The Birches Resort",
+    "publisher": "The Birches Resort",
+    "type": "brochure",
+    "category": "Resort/Service Brochures",
+    "location": {
+      "name": "Moosehead Lake, ME",
+      "state": "ME",
+      "region": "New England",
+      "lat": 45.6724899,
+      "lng": -69.59062
+    },
+    "tags": [
+      "resort",
+      "lodging",
+      "four-season"
+    ],
+    "image": "IMG_4708.JPG",
+    "notes": "4 Season Resort on Moosehead Lake"
+  },
+  {
+    "id": "amc-medawisla-summer-trails",
+    "title": "AMC Medawisla Summer Trails",
+    "publisher": "Appalachian Mountain Club",
+    "type": "trail-map",
+    "category": "Maine State/Regional Park Maps & Guides",
+    "location": {
+      "name": "Medawisla, ME",
+      "state": "ME",
+      "region": "New England",
+      "lat": 44.6610016,
+      "lng": -70.660574
+    },
+    "tags": [
+      "hiking",
+      "trails",
+      "amc",
+      "maine-woods"
+    ],
+    "image": "IMG_4709.JPG",
+    "notes": "Maine Woods Initiative"
+  },
+  {
+    "id": "amc-lyford-gorman-summer-trails",
+    "title": "AMC Lyford & Gorman Summer Trails",
+    "publisher": "Appalachian Mountain Club",
+    "type": "trail-map",
+    "category": "Maine State/Regional Park Maps & Guides",
+    "location": {
+      "name": "Lyford & Gorman, ME",
+      "state": "ME",
+      "region": "New England",
+      "lat": 45.65,
+      "lng": -69.2
+    },
+    "tags": [
+      "hiking",
+      "trails",
+      "amc",
+      "maine-woods"
+    ],
+    "image": "IMG_4710.JPG",
+    "notes": "Maine Woods Initiative"
+  },
+  {
+    "id": "katahdin-baxter-map-adventures",
+    "title": "Katahdin / Baxter State Park Waterproof Trail Map",
+    "publisher": "Map Adventures",
+    "type": "trail-map",
+    "category": "Waterproof/Topographic Trail Maps",
+    "location": {
+      "name": "Katahdin / Baxter State Park, ME",
+      "state": "ME",
+      "region": "New England",
+      "lat": 45.9044,
+      "lng": -68.9213
+    },
+    "tags": [
+      "waterproof",
+      "hiking",
+      "appalachian-trail",
+      "state-park"
+    ],
+    "image": "IMG_4711.JPG",
+    "notes": ""
+  },
+  {
+    "id": "grand-staircase-paunsaugunt-natgeo",
+    "title": "Grand Staircase / Paunsaugunt Plateau, UT",
+    "publisher": "National Geographic Trails Illustrated",
+    "type": "trail-map",
+    "category": "Waterproof/Topographic Trail Maps",
+    "location": {
+      "name": "Grand Staircase-Escalante NM, UT",
+      "state": "UT",
+      "region": "Southwest",
+      "lat": 37.4,
+      "lng": -111.68
+    },
+    "tags": [
+      "waterproof",
+      "topographic",
+      "national-monument",
+      "national-geographic"
+    ],
+    "image": "IMG_4712.JPG",
+    "notes": ""
+  },
+  {
+    "id": "utah-recreation-map-benchmark",
+    "title": "Utah Recreation Map",
+    "publisher": "Benchmark Maps",
+    "type": "road-map",
+    "category": "Other Maps",
+    "location": {
+      "name": "Utah",
+      "state": "UT",
+      "region": "Southwest",
+      "lat": 39.4225192,
+      "lng": -111.714358
+    },
+    "tags": [
+      "recreation",
+      "state"
+    ],
+    "image": "IMG_4713.JPG",
+    "notes": ""
+  },
+  {
+    "id": "aaa-ontario",
+    "title": "AAA/CAA Ontario",
+    "publisher": "AAA/CAA",
+    "type": "road-map",
+    "category": "AAA/CAA Road Maps",
+    "location": {
+      "name": "Ontario, Canada",
+      "state": null,
+      "region": "Canada",
+      "lat": 50.000678,
+      "lng": -86.000977
+    },
+    "tags": [
+      "road-map",
+      "aaa",
+      "canada",
+      "provincial"
+    ],
+    "image": "IMG_4714.JPG",
+    "notes": "Provincial Series"
+  },
+  {
+    "id": "ki-jo-mary-katahdin-iron-works",
+    "title": "KI Jo-Mary / Katahdin Iron Works Guide Map",
+    "publisher": "North Maine Woods, Inc.",
+    "type": "trail-map",
+    "category": "Maine State/Regional Park Maps & Guides",
+    "location": {
+      "name": "Katahdin Iron Works / Jo-Mary, ME",
+      "state": "ME",
+      "region": "New England",
+      "lat": 45.5,
+      "lng": -69.2
+    },
+    "tags": [
+      "backcountry",
+      "logging-roads",
+      "camping"
+    ],
+    "image": "IMG_4715.JPG",
+    "notes": "Multiple Ownership / Multiple Use Management Forest"
+  },
+  {
+    "id": "outdoors-in-maine-map",
+    "title": "Outdoors in Maine (Map)",
+    "publisher": "Maine Bureau of Parks & Lands",
+    "type": "trail-map",
+    "category": "Maine State/Regional Park Maps & Guides",
+    "location": {
+      "name": "Maine",
+      "state": "ME",
+      "region": "New England",
+      "lat": 45.709097,
+      "lng": -68.8590201
+    },
+    "tags": [
+      "state-parks",
+      "public-lands",
+      "overview"
+    ],
+    "image": "IMG_4716.JPG",
+    "notes": "Large fold-out map of all Maine state parks and public lands"
+  },
+  {
+    "id": "outdoors-in-maine-brochure",
+    "title": "Outdoors in Maine (Brochure)",
+    "publisher": "Maine Bureau of Parks & Lands",
+    "type": "brochure",
+    "category": "Maine State/Regional Park Maps & Guides",
+    "location": {
+      "name": "Maine",
+      "state": "ME",
+      "region": "New England",
+      "lat": 45.709097,
+      "lng": -68.8590201
+    },
+    "tags": [
+      "state-parks",
+      "public-lands",
+      "overview"
+    ],
+    "image": "IMG_4717.JPG",
+    "notes": "Companion brochure to the Outdoors in Maine map"
+  },
+  {
+    "id": "portland-trails-maine",
+    "title": "Portland Trails, Maine (4th ed.)",
+    "publisher": "Portland Trails",
+    "type": "trail-map",
+    "category": "Other Local/Regional Guides & Brochures",
+    "location": {
+      "name": "Portland, ME",
+      "state": "ME",
+      "region": "New England",
+      "lat": 43.6573605,
+      "lng": -70.2586618
+    },
+    "tags": [
+      "trails",
+      "urban",
+      "parks",
+      "open-spaces"
+    ],
+    "image": "IMG_4718.JPG",
+    "notes": "Trails, Parks & Open Spaces"
+  },
+  {
+    "id": "santa-fe-city-trails",
+    "title": "Santa Fe City Trails Waterproof Trail Map",
+    "publisher": "Map Adventures",
+    "type": "trail-map",
+    "category": "Waterproof/Topographic Trail Maps",
+    "location": {
+      "name": "Santa Fe, NM",
+      "state": "NM",
+      "region": "Southwest",
+      "lat": 35.6876096,
+      "lng": -105.938456
+    },
+    "tags": [
+      "waterproof",
+      "city-trails",
+      "hiking",
+      "biking"
+    ],
+    "image": "IMG_4719.JPG",
+    "notes": ""
+  },
+  {
+    "id": "santa-fe-mountains",
+    "title": "Santa Fe Mountains Waterproof Trail Map",
+    "publisher": "Map Adventures",
+    "type": "trail-map",
+    "category": "Waterproof/Topographic Trail Maps",
+    "location": {
+      "name": "Santa Fe Mountains, NM",
+      "state": "NM",
+      "region": "Southwest",
+      "lat": 35.79,
+      "lng": -105.72
+    },
+    "tags": [
+      "waterproof",
+      "hiking",
+      "mountain-biking"
+    ],
+    "image": "IMG_4720.JPG",
+    "notes": ""
+  },
+  {
+    "id": "acadia-nps-unigrid",
+    "title": "Acadia National Park Unigrid Brochure",
+    "publisher": "National Park Service",
+    "type": "brochure",
+    "category": "Other Local/Regional Guides & Brochures",
+    "location": {
+      "name": "Acadia National Park, ME",
+      "state": "ME",
+      "region": "New England",
+      "lat": 44.3563115,
+      "lng": -68.2154787
+    },
+    "tags": [
+      "national-park",
+      "nps"
+    ],
+    "image": "IMG_4721.JPG",
+    "notes": "Official NPS unigrid brochure"
+  },
+  {
+    "id": "aa-scotland-road-map",
+    "title": "AA Road Map 9: Scotland",
+    "publisher": "AA (Automobile Association)",
+    "type": "road-map",
+    "category": "Other Maps",
+    "location": {
+      "name": "Scotland, UK",
+      "state": null,
+      "region": "International",
+      "lat": 56.7861112,
+      "lng": -4.1140518
+    },
+    "tags": [
+      "road-map",
+      "international",
+      "uk"
+    ],
+    "image": "IMG_4722.JPG",
+    "notes": "Britain's Clearest Mapping series"
+  },
+  {
+    "id": "aaa-me-nh-vt",
+    "title": "AAA Maine New Hampshire Vermont",
+    "publisher": "AAA",
+    "type": "road-map",
+    "category": "AAA/CAA Road Maps",
+    "location": {
+      "name": "Maine, New Hampshire & Vermont",
+      "state": "ME/NH/VT",
+      "region": "New England",
+      "lat": 44,
+      "lng": -71.5
+    },
+    "tags": [
+      "road-map",
+      "aaa",
+      "state"
+    ],
+    "image": "IMG_4723.JPG",
+    "notes": "State Series"
+  },
+  {
+    "id": "aaa-seattle-v1",
+    "title": "AAA Seattle, Washington (City Series)",
+    "publisher": "AAA",
+    "type": "city-map",
+    "category": "AAA/CAA Road Maps",
+    "location": {
+      "name": "Seattle, WA",
+      "state": "WA",
+      "region": "Pacific Northwest",
+      "lat": 47.6038321,
+      "lng": -122.330062
+    },
+    "tags": [
+      "city-map",
+      "aaa"
+    ],
+    "image": "IMG_4724.JPG",
+    "notes": "Edition with skyline cover"
+  },
+  {
+    "id": "aaa-oregon-washington-v2",
+    "title": "AAA Oregon Washington",
+    "publisher": "AAA",
+    "type": "road-map",
+    "category": "AAA/CAA Road Maps",
+    "location": {
+      "name": "Oregon & Washington",
+      "state": "OR/WA",
+      "region": "Pacific Northwest",
+      "lat": 45.5601883,
+      "lng": -123.0587907
+    },
+    "tags": [
+      "road-map",
+      "aaa",
+      "state"
+    ],
+    "image": "IMG_4725.JPG",
+    "notes": "State Series — newer edition with waterfall cover"
+  },
+  {
+    "id": "aaa-kansas-missouri",
+    "title": "AAA Kansas Missouri",
+    "publisher": "AAA",
+    "type": "road-map",
+    "category": "AAA/CAA Road Maps",
+    "location": {
+      "name": "Kansas & Missouri",
+      "state": "KS/MO",
+      "region": "Midwest",
+      "lat": 39.100105,
+      "lng": -94.5781416
+    },
+    "tags": [
+      "road-map",
+      "aaa",
+      "state"
+    ],
+    "image": "IMG_4726.JPG",
+    "notes": "State Series"
+  },
+  {
+    "id": "aaa-california",
+    "title": "AAA California",
+    "publisher": "AAA",
+    "type": "road-map",
+    "category": "AAA/CAA Road Maps",
+    "location": {
+      "name": "California",
+      "state": "CA",
+      "region": "West",
+      "lat": 36.7014631,
+      "lng": -118.755997
+    },
+    "tags": [
+      "road-map",
+      "aaa",
+      "state"
+    ],
+    "image": "IMG_4727.JPG",
+    "notes": "State Series"
+  },
+  {
+    "id": "aaa-miami-beach-fl",
+    "title": "AAA Miami Beach, Florida",
+    "publisher": "AAA",
+    "type": "city-map",
+    "category": "AAA/CAA Road Maps",
+    "location": {
+      "name": "Miami Beach, FL",
+      "state": "FL",
+      "region": "Southeast",
+      "lat": 25.7929198,
+      "lng": -80.1353006
+    },
+    "tags": [
+      "city-map",
+      "aaa"
+    ],
+    "image": "IMG_4728.JPG",
+    "notes": "City Series"
+  },
+  {
+    "id": "aaa-florida",
+    "title": "AAA Florida",
+    "publisher": "AAA",
+    "type": "road-map",
+    "category": "AAA/CAA Road Maps",
+    "location": {
+      "name": "Florida",
+      "state": "FL",
+      "region": "Southeast",
+      "lat": 27.7567667,
+      "lng": -81.4639835
+    },
+    "tags": [
+      "road-map",
+      "aaa",
+      "state"
+    ],
+    "image": "IMG_4729.JPG",
+    "notes": "State Series"
+  },
+  {
+    "id": "aaa-united-states",
+    "title": "AAA United States",
+    "publisher": "AAA",
+    "type": "road-map",
+    "category": "AAA/CAA Road Maps",
+    "location": {
+      "name": "United States",
+      "state": null,
+      "region": "National",
+      "lat": 39.7837304,
+      "lng": -100.445882
+    },
+    "tags": [
+      "road-map",
+      "aaa",
+      "country"
+    ],
+    "image": "IMG_4730.JPG",
+    "notes": "Country Series"
+  },
+  {
+    "id": "aaa-michigan",
+    "title": "AAA Michigan",
+    "publisher": "AAA",
+    "type": "road-map",
+    "category": "AAA/CAA Road Maps",
+    "location": {
+      "name": "Michigan",
+      "state": "MI",
+      "region": "Midwest",
+      "lat": 43.6211955,
+      "lng": -84.6824346
+    },
+    "tags": [
+      "road-map",
+      "aaa",
+      "state"
+    ],
+    "image": "IMG_4731.JPG",
+    "notes": "State Series"
+  },
+  {
+    "id": "aaa-seattle-v2",
+    "title": "AAA Seattle, Washington (City Series)",
+    "publisher": "AAA",
+    "type": "city-map",
+    "category": "AAA/CAA Road Maps",
+    "location": {
+      "name": "Seattle, WA",
+      "state": "WA",
+      "region": "Pacific Northwest",
+      "lat": 47.6038321,
+      "lng": -122.330062
+    },
+    "tags": [
+      "city-map",
+      "aaa"
+    ],
+    "image": "IMG_4732.JPG",
+    "notes": "Older edition with building/garden cover"
+  },
+  {
+    "id": "aaa-north-carolina-south-carolina",
+    "title": "AAA North Carolina South Carolina",
+    "publisher": "AAA",
+    "type": "road-map",
+    "category": "AAA/CAA Road Maps",
+    "location": {
+      "name": "North Carolina & South Carolina",
+      "state": "NC/SC",
+      "region": "Southeast",
+      "lat": 33.6157083,
+      "lng": -81.1020414
+    },
+    "tags": [
+      "road-map",
+      "aaa",
+      "state"
+    ],
+    "image": "IMG_4733.JPG",
+    "notes": "State Series"
+  },
+  {
+    "id": "aaa-portland-maine",
+    "title": "AAA Portland, Maine",
+    "publisher": "AAA",
+    "type": "city-map",
+    "category": "AAA/CAA Road Maps",
+    "location": {
+      "name": "Portland, ME",
+      "state": "ME",
+      "region": "New England",
+      "lat": 43.6573605,
+      "lng": -70.2586618
+    },
+    "tags": [
+      "city-map",
+      "aaa"
+    ],
+    "image": "IMG_4734.JPG",
+    "notes": "City Series"
+  },
+  {
+    "id": "aaa-new-york",
+    "title": "AAA New York",
+    "publisher": "AAA",
+    "type": "road-map",
+    "category": "AAA/CAA Road Maps",
+    "location": {
+      "name": "New York",
+      "state": "NY",
+      "region": "Mid-Atlantic",
+      "lat": 40.7127281,
+      "lng": -74.0060152
+    },
+    "tags": [
+      "road-map",
+      "aaa",
+      "state"
+    ],
+    "image": "IMG_4735.JPG",
+    "notes": "State Series"
+  },
+  {
+    "id": "acadia-np-map-adventures",
+    "title": "Acadia National Park (2nd ed.) Waterproof Trail Map",
+    "publisher": "Map Adventures",
+    "type": "trail-map",
+    "category": "Waterproof/Topographic Trail Maps",
+    "location": {
+      "name": "Acadia National Park, ME",
+      "state": "ME",
+      "region": "New England",
+      "lat": 44.3563115,
+      "lng": -68.2154787
+    },
+    "tags": [
+      "waterproof",
+      "national-park",
+      "hiking"
+    ],
+    "image": "IMG_4736.JPG",
+    "notes": ""
+  },
+  {
+    "id": "quietside-trail-map-2022",
+    "title": "Quietside Trail Map 2022",
+    "publisher": "Acadia Chamber of Commerce",
+    "type": "trail-map",
+    "category": "Other Local/Regional Guides & Brochures",
+    "location": {
+      "name": "Acadia National Park (West Side), ME",
+      "state": "ME",
+      "region": "New England",
+      "lat": 44.32,
+      "lng": -68.35
+    },
+    "tags": [
+      "trails",
+      "national-park",
+      "hiking"
+    ],
+    "image": "IMG_4737.JPG",
+    "notes": "Covers western side of Mt. Desert Island and Acadia"
+  },
+  {
+    "id": "white-mountains-map-adventures",
+    "title": "White Mountains (4th ed.) Waterproof Trail Map",
+    "publisher": "Map Adventures",
+    "type": "trail-map",
+    "category": "Waterproof/Topographic Trail Maps",
+    "location": {
+      "name": "White Mountains, NH & ME",
+      "state": "NH/ME",
+      "region": "New England",
+      "lat": 44.27,
+      "lng": -71.3
+    },
+    "tags": [
+      "waterproof",
+      "hiking",
+      "4000-footers"
+    ],
+    "image": "IMG_4738.JPG",
+    "notes": ""
+  },
+  {
+    "id": "50-hikes-maine-mountains",
+    "title": "50 Hikes in the Maine Mountains (3rd ed.)",
+    "publisher": "Backcountry Guides",
+    "type": "hiking-book",
+    "category": "Hiking/Trail Books",
+    "location": {
+      "name": "Maine Mountains",
+      "state": "ME",
+      "region": "New England",
+      "lat": 44.8058914,
+      "lng": -70.0872852
+    },
+    "tags": [
+      "hiking",
+      "mountains",
+      "backcountry"
+    ],
+    "image": "IMG_4739.JPG",
+    "notes": "By Cloe Chunn — Rangeley Lakes to Baxter State Park"
+  },
+  {
+    "id": "aaa-tourbook-south-florida",
+    "title": "AAA TourBook: South Florida",
+    "publisher": "AAA",
+    "type": "guidebook",
+    "category": "Camping/Travel Guidebooks",
+    "location": {
+      "name": "South Florida",
+      "state": "FL",
+      "region": "Southeast",
+      "lat": 37.1670484,
+      "lng": -94.8463851
+    },
+    "tags": [
+      "travel",
+      "aaa",
+      "guidebook"
+    ],
+    "image": "IMG_4740.JPG",
+    "notes": ""
+  },
+  {
+    "id": "aaa-tourbook-atlantic-provinces-quebec",
+    "title": "AAA TourBook: Atlantic Provinces & Quebec",
+    "publisher": "AAA/CAA",
+    "type": "guidebook",
+    "category": "Camping/Travel Guidebooks",
+    "location": {
+      "name": "Atlantic Provinces & Quebec, Canada",
+      "state": null,
+      "region": "Canada",
+      "lat": 47,
+      "lng": -66
+    },
+    "tags": [
+      "travel",
+      "aaa",
+      "guidebook",
+      "canada"
+    ],
+    "image": "IMG_4741.JPG",
+    "notes": ""
+  },
+  {
+    "id": "best-tent-camping-new-england",
+    "title": "The Best in Tent Camping: New England",
+    "publisher": "Menasha Ridge Press",
+    "type": "guidebook",
+    "category": "Camping/Travel Guidebooks",
+    "location": {
+      "name": "New England",
+      "state": null,
+      "region": "New England",
+      "lat": 44.2057083,
+      "lng": -70.7537839
+    },
+    "tags": [
+      "camping",
+      "tent",
+      "guidebook"
+    ],
+    "image": "IMG_4742.JPG",
+    "notes": "A guide for car campers who hate RVs, concrete slabs, and loud portable stereos"
+  },
+  {
+    "id": "delorme-maine-atlas-gazetteer",
+    "title": "The Maine Atlas and Gazetteer",
+    "publisher": "DeLorme",
+    "type": "atlas",
+    "category": "Other Maps",
+    "location": {
+      "name": "Maine",
+      "state": "ME",
+      "region": "New England",
+      "lat": 45.709097,
+      "lng": -68.8590201
+    },
+    "tags": [
+      "atlas",
+      "topographic",
+      "comprehensive"
+    ],
+    "image": "IMG_4743.JPG",
+    "notes": "All New Maps edition — maps detailing the entire state"
+  }
+]
