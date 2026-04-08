@@ -220,8 +220,8 @@
       "name": "Northwestern United States",
       "state": null,
       "region": "Pacific Northwest",
-      "lat": 42.0557157,
-      "lng": -87.6752945
+      "lat": 46.0,
+      "lng": -117.0
     },
     "tags": [
       "road-map",
@@ -241,8 +241,8 @@
       "name": "Western United States",
       "state": null,
       "region": "West",
-      "lat": 43.3380689,
-      "lng": -75.3896929
+      "lat": 40.0,
+      "lng": -112.0
     },
     "tags": [
       "road-map",
@@ -293,7 +293,7 @@
       "state"
     ],
     "image": "IMG_0371.jpeg",
-    "notes": "State Series — older edition with lighthouse cover"
+    "notes": "State Series \u2014 older edition with lighthouse cover"
   },
   {
     "id": "montreal-tourist-map",
@@ -347,8 +347,8 @@
       "name": "Southeastern United States",
       "state": null,
       "region": "Southeast",
-      "lat": 31.5856126,
-      "lng": -102.8826804
+      "lat": 33.0,
+      "lng": -84.0
     },
     "tags": [
       "road-map",
@@ -398,7 +398,7 @@
       "day-hikes"
     ],
     "image": "IMG_0377.jpeg",
-    "notes": "By Carey Michael Kish — Four-season guide to 50 trails"
+    "notes": "By Carey Michael Kish \u2014 Four-season guide to 50 trails"
   },
   {
     "id": "off-beaten-path-maine",
@@ -418,7 +418,7 @@
       "unique-places"
     ],
     "image": "IMG_0378.jpeg",
-    "notes": "By Tom Seymour — A Guide to Unique Places"
+    "notes": "By Tom Seymour \u2014 A Guide to Unique Places"
   },
   {
     "id": "camden-hills-state-park",
@@ -546,7 +546,7 @@
   },
   {
     "id": "coastal-maine-botanical-gardens",
-    "title": "Guardians of the Seeds — Map and Guide",
+    "title": "Guardians of the Seeds \u2014 Map and Guide",
     "publisher": "Coastal Maine Botanical Gardens",
     "type": "brochure",
     "category": "Other Local/Regional Guides & Brochures",
@@ -659,8 +659,8 @@
       "name": "Medawisla, ME",
       "state": "ME",
       "region": "New England",
-      "lat": 44.6610016,
-      "lng": -70.660574
+      "lat": 45.62,
+      "lng": -69.49
     },
     "tags": [
       "hiking",
@@ -1008,7 +1008,7 @@
       "state"
     ],
     "image": "IMG_4725.JPG",
-    "notes": "State Series — newer edition with waterfall cover"
+    "notes": "State Series \u2014 newer edition with waterfall cover"
   },
   {
     "id": "aaa-kansas-missouri",
@@ -1299,7 +1299,7 @@
       "backcountry"
     ],
     "image": "IMG_4739.JPG",
-    "notes": "By Cloe Chunn — Rangeley Lakes to Baxter State Park"
+    "notes": "By Cloe Chunn \u2014 Rangeley Lakes to Baxter State Park"
   },
   {
     "id": "aaa-tourbook-south-florida",
@@ -1311,8 +1311,8 @@
       "name": "South Florida",
       "state": "FL",
       "region": "Southeast",
-      "lat": 37.1670484,
-      "lng": -94.8463851
+      "lat": 26.1,
+      "lng": -80.2
     },
     "tags": [
       "travel",
@@ -1384,6 +1384,6 @@
       "comprehensive"
     ],
     "image": "IMG_4743.JPG",
-    "notes": "All New Maps edition — maps detailing the entire state"
+    "notes": "All New Maps edition \u2014 maps detailing the entire state"
   }
 ]
