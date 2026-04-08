@@ -99,7 +99,8 @@ export default function MapView({ items, onItemClick }: MapViewProps) {
                 <img
                   src={`/images/thumbs/${item.image.replace(/\.(jpe?g|png|webp|tiff?)$/i, ".jpg")}`}
                   alt={item.title}
-                  className="w-full h-24 object-cover rounded mb-2"
+                  className="w-full h-24 object-cover rounded mb-2 cursor-pointer"
+                  onClick={() => onItemClick(item)}
                 />
                 <p className="font-medium text-sm">{item.title}</p>
                 <p className="text-xs text-gray-500">{item.publisher}</p>
